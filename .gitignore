@@ -1,0 +1,7 @@
+*.DS_Store
+archetypes/
+data/
+layouts/
+static/
+public/
+hugo.exe
