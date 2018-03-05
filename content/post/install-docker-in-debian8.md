@@ -2,6 +2,7 @@
 title: "记：在 Debian8 安装 docker"
 date: 2017-04-06T16:23:04+08:00
 category: ["server"]
+tags: ["server", "debian", "docker"]
 ---
 
 在今年寒假的时候接触到了 docker，当时就觉得这是一个很棒的技术，想应用到我的 VPS 上去，但是不知道之前选择 VPS 系统时怎么想的，居然安装了一个32位的系统，但 docker 是不支持32位系统的，所以折腾了好久都没成功，就放弃了。。

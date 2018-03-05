@@ -2,6 +2,7 @@
 title: "docker 安装 jupyter 并用 nginx 进行反向代理"
 date: 2017-04-08T11:30:00+08:00
 category: ["server"]
+tags: ["docker", "jupyter", "nginx", "反向代理"]
 ---
 
 这个过程的坑很多，所以记录下来帮助后人，也是帮助以后的自己。<!--more-->

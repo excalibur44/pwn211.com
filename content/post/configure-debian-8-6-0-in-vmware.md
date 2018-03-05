@@ -2,7 +2,7 @@
 title: "在 vmware 配置 debian 8.6.0"
 date: 2017-01-19T12:58:44+08:00
 categories: ["server"]
-tags: ["server"]
+tags: ["vmware", "debian"]
 ---
 
 ## 0x00 缘起
