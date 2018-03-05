@@ -3,5 +3,6 @@ archetypes/
 data/
 layouts/
 static/
+themes/*
 public/
 hugo.exe
