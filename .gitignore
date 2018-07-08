@@ -3,7 +3,5 @@ archetypes/
 data/
 layouts/
 static/
-themes/*
-!themes/.gitkeep
 public/
 hugo.exe
