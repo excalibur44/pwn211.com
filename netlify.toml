@@ -1,0 +1,4 @@
+[build]
+  publish = "public"
+  command = "hugo"
+  HUGO_VERSION = "0.37.1"
