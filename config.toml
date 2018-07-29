@@ -1,4 +1,4 @@
-baseURL = "https://pwn211.com"
+baseURL = "https://www.pwn211.com"
 languageCode = "zh-CN"
 title = "鲸落"
 theme = "hugo-nuo"
